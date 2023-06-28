@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CarPoolCITY/static/css/main.073c9b0a.css",
+    "main.js": "/CarPoolCITY/static/js/main.b5814083.js",
+    "static/js/787.9f3e1cef.chunk.js": "/CarPoolCITY/static/js/787.9f3e1cef.chunk.js",
+    "static/media/logo.svg": "/CarPoolCITY/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CarPoolCITY/index.html",
+    "main.073c9b0a.css.map": "/CarPoolCITY/static/css/main.073c9b0a.css.map",
+    "main.b5814083.js.map": "/CarPoolCITY/static/js/main.b5814083.js.map",
+    "787.9f3e1cef.chunk.js.map": "/CarPoolCITY/static/js/787.9f3e1cef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b5814083.js"
+  ]
+}
