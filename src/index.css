@@ -20,6 +20,13 @@ body
     flex-direction: row;
 }
 
+.flex-container3
+{
+    display: flex;
+    min-height: 40vh;
+    flex-direction: column;
+}
+
 #blueCar
 {
   width: 54.3vmin;

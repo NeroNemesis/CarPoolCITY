@@ -25,38 +25,3 @@ $(function(){
   });
 });
 
-const sections = document.querySelectorAll(".section");
-const navItems = document.querySelectorAll(".nav-item .nav-link");
-window.onscroll = () => {
-  var current = "";
-  var homepage = document.getElementById("home");
-
-  if(typeof(homepage) != undefined && homepage != null)
-  {
-    sections.forEach((section) => {
-      const sectionTop = section.offsetTop;
-      const sectionHeight = section.scrollHeight;
-      const scrollTop = section.scrollTop;
-      
-      if (window.scrollY + sectionTop/7 >= sectionTop) {
-        current = section.getAttribute("id"); }
-    });
-  }
-  else
-  {
-    sections.forEach((section) => {
-      const sectionTop = section.offsetTop;
-      const sectionHeight = section.scrollHeight;
-      const scrollTop = section.scrollTop;
-      
-      if ( window.scrollY + sectionTop/3 >= sectionTop) {
-        current = section.getAttribute("id"); }
-    });
-  }
-  navItems.forEach((a) => {
-    a.classList.remove("active");
-    if (a.classList.contains(current)) {
-      a.classList.add("active");
-    }
-  });
-};
