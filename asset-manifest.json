@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/CarPoolCITY/static/css/main.7cb3d5e8.css",
-    "main.js": "/CarPoolCITY/static/js/main.9b72dcee.js",
+    "main.css": "/CarPoolCITY/static/css/main.4d402da5.css",
+    "main.js": "/CarPoolCITY/static/js/main.acd3da5d.js",
     "index.html": "/CarPoolCITY/index.html",
-    "main.7cb3d5e8.css.map": "/CarPoolCITY/static/css/main.7cb3d5e8.css.map",
-    "main.9b72dcee.js.map": "/CarPoolCITY/static/js/main.9b72dcee.js.map"
+    "main.4d402da5.css.map": "/CarPoolCITY/static/css/main.4d402da5.css.map",
+    "main.acd3da5d.js.map": "/CarPoolCITY/static/js/main.acd3da5d.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cb3d5e8.css",
-    "static/js/main.9b72dcee.js"
+    "static/css/main.4d402da5.css",
+    "static/js/main.acd3da5d.js"
   ]
 }
